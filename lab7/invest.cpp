@@ -8,13 +8,13 @@ int main()
     int years;
     float interest;
 
-    cout << "Please enter the principal amount: ";
+    cout << "enter the principal amount: ";
     cin >> principal;
 
-    cout << "Please enter the interest rate (e.g. 5 for 5%): ";
+    cout << "enter  interest rate (e.g. 5 for 5%): ";
     cin >> rate;
 
-    cout << "Please enter the number of years: ";
+    cout << "enter the number of years: ";
     cin >> years;
 
     // calculate compound interest annually
